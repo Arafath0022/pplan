@@ -1,0 +1,39 @@
+
+        body{
+            background-color: #292D33;
+            font-family: sans-serif;
+            color: white;
+        }
+        caption{
+            font-size: 45px;
+            margin: 40px 0;
+            font-weight: 700;
+        }
+        td, th{
+            border: 0.5px solid gray;
+            padding: 20px 50px;
+        }
+        th{
+            border: 1px solid #555c66;
+            padding: 20px 80px;
+        }
+        table{
+            margin: auto;
+            border-collapse: collapse;
+            font-size: 20px;
+        }
+        thead{
+        }
+        button{
+            background-color: #EC3D45;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 50px;
+            color: white;
+            font-size: 14px;
+            font-weight: 700;
+        }
+        i{
+            color: #FF9D00;
+            font-size: 30px;
+        }
